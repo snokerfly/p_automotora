@@ -1,0 +1,53 @@
+/* Estilos para el carrusel de servicios */
+.card {
+    border: none;
+    border-radius: 15px;
+    overflow: hidden;
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  .card-title {
+    margin-bottom: 10px;
+  }
+  
+  .btn {
+    width: 100%;
+    margin-top: 15px;
+  }
+  
+  .bg-car1 {
+    background-image: url('../img/faros_antiniebla.png');
+    background-size: cover;
+    background-position: center;
+  }
+
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  
+  .btn {
+    margin-top: auto; /* Establece un margen superior automático para que el botón se mueva hacia abajo */
+  }
+
+  .bg-car2 {
+    background-image: url('../img/pintado_auto.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+
+  .bg-car3 {
+    background-image: url('../img/tapizadopersonalizado.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+
+  
+  

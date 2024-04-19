@@ -1,0 +1,31 @@
+.section-icons {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+  
+  .container-icons {
+    max-width: 1100px;
+  }
+  
+  .box-icons {
+    margin-bottom: 2rem;
+  }
+
+ 
+.tituloh3icons{
+    font-size: 1.25rem;
+    
+}
+
+.parrafoicons{
+    font-size: 0.875rem;;
+}
+
+img{
+    width: 50%;
+}
+
+.img_banner_motor{
+  height: 10%;
+  width: 50%;
+}

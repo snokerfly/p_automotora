@@ -1,0 +1,30 @@
+/* Ajusta el margen superior del contenedor del título para evitar que se superponga con el navbar */
+.section-header {
+    margin-top: 60px; /* Ajusta según sea necesario para evitar la superposición */
+}
+
+.section-icons {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+  
+  .container-icons {
+    max-width: 1100px;
+  }
+  
+  .box-icons {
+    margin-bottom: 2rem;
+  }
+
+  .section-icons {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+  
+  .container-icons {
+    max-width: 1100px;
+  }
+  
+  .box-icons {
+    margin-bottom: 2rem;
+  }
